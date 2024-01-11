@@ -2,10 +2,10 @@
   <img src="https://media4.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif?cid=ecf05e47t4mskrj2hpvrzt481ojfciq0mn2pb560nhnxwoto&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a target="_blank" href="https://t.me/exact_07">
+  <a href="https://t.me/exact_07">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram account"/>
   </a>
-  <a target="_blank" href="the7chertan@gmail.com">
+  <a href="https://the7chertan@gmail.com">
   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail account"/>
   </a>
 </div>
