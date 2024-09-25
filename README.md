@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif?cid=ecf05e47t4mskrj2hpvrzt481ojfciq0mn2pb560nhnxwoto&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://github.com/user-attachments/assets/65548b42-d8ff-44d5-bf78-d3387e8105ae" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/exact_07">
