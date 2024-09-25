@@ -11,10 +11,10 @@
 </div>
 <h1 align="center">
   hey there
-  <img src="https://github.com/user-attachments/assets/65548b42-d8ff-44d5-bf78-d3387e8105ae" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/user-attachments/assets/65548b42-d8ff-44d5-bf78-d3387e8105ae" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
