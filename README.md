@@ -19,8 +19,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/user-attachments/assets/65548b42-d8ff-44d5-bf78-d3387e8105ae
-)" width="30"> from RUSSIA.
+I am a Full Stack Developer <img src="https://github.com/user-attachments/assets/65548b42-d8ff-44d5-bf78-d3387e8105ae" width="30"> from RUSSIA.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
